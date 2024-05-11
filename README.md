@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Train Ticket Booking app is a mobile application developed using Flutter, a cross-platform framework for building native iOS and Android apps. It provides users with a convenient way to book, and manage train tickets.
+The Train Ticket Booking app is a mobile application developed using Flutter, a cross-platform framework for building native iOS and Android apps. It provides users with a convenient way to book and manage train tickets.
 
 ## Features
 
