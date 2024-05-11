@@ -15,8 +15,17 @@ The Train Ticket Booking app is a mobile application developed using Flutter, a 
 - **View and Manage Bookings:** Users can view their booked tickets and cancel bookings if needed.
 - **User Profile:** Users have a profile section where they can view and edit their personal information.
 
+## Technology Stack
+
+- **Flutter:** Cross-platform framework for building native mobile apps.
+- **Dart:** Programming language used with Flutter.
+- **RESTful API:** Deployed API endpoints for user authentication, ticket search, and booking.
+- **SQLite:** Local database for storing user credentials and booking information.
+- **HTTP Package:** Used for making HTTP requests to the backend API.
+- **Shared Preferences:** Flutter plugin for persistently storing data locally.
+
 ## Note
 
 Ensure to create a new Flutter app and add the necessary files to it. Take care to install all dependencies in the `pubspec.yaml` file.
 
-The project contains both uploaded API and a folder for a local API.
+The project contains both uploaded API and a folder for a local API. Note that the uploaded API may take some time to activate initially, approximately a minute, as it is free and hosted on Render.
